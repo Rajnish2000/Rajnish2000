@@ -70,7 +70,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute 
 ## 📈 **GitHub Stats**
 
 ### My GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar9nani&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=24&include_all_commits=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajnish2000&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical&line_height=24&include_all_commits=true)
 
 ---
 
