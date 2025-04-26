@@ -17,7 +17,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute 
 ---
 
 ## 🌍 Location
-![Location](https://img.shields.io/badge/Location-Gorakhpur,Uttar-Pradesh,_India-0077B5?style=for-the-badge&logo=googleearth&logoColor=white)
+[![Location](https://img.shields.io/badge/Location-Uttar%20Pradesh,%20India-0077B5?style=for-the-badge&logo=googleearth&logoColor=white)]()
 
 ---
 
@@ -80,7 +80,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute 
 ---
 
 ### Typing SVG
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=465&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;❤️Always+striving+to+improve+myself!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=800&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;❤️Always+striving+to+improve+myself!)
 
 ---
 
