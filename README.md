@@ -80,7 +80,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute 
 ---
 
 ### Typing SVG
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C0FF&width=435&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;❤️Always+striving+to+improve+myself!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C0FF&width=435&lines=Learning+is+the+key+to+innovation+and+growth;Exploring+new+technologies+every+day;❤️Always+striving+to+improve+myself!)
 
 ---
 
