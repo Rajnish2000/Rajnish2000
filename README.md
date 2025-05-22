@@ -6,7 +6,7 @@ I'M 👋
 ![Full Stack Development](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 
 
-Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute of Technology and Research with a passion for developing innovative solutions in **Software Development Engineering**, **Dala Analytics**, and **Full-Stack Development**.
+Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute of Technology and Research with a passion for developing innovative solutions in **Software Development Engineering**, **App Development**, and **Full-Stack Development**.
 
 ---
 
