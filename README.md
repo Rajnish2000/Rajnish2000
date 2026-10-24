@@ -37,6 +37,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Core Java](https://img.shields.io/badge/Core%20Java-blue?style=for-the-badge)
 
 ---
 
@@ -56,7 +57,7 @@ Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-brightgreen)
 ---
 
 ### 🗄️ **Databases**
@@ -69,7 +70,6 @@ Welcome to my GitHub! I am a BTech Computer Science student at Buddha Institute 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 ## 📈 **GitHub Stats**
